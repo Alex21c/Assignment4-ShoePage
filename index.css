@@ -45,6 +45,7 @@ main:after{
   content: '';
   position: absolute;
   background: linear-gradient(to right, #a13e3e, #333394, #4949ff);
+  box-shadow: 1px 2px 17px 3px black;
   transform: skewY(11deg);
   z-index: -1;
   inset: 0;
